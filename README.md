@@ -1,5 +1,8 @@
 # 💫 About Me:
-👨‍💻 Currently CTO at Marine Edge, building a platform for Merchant Navy exams with ReactJS + Node.js.<br>🤝 Open to collabs on full-stack projects, cloud-native apps, and SEO-friendly development.<br>📚 Learning advanced backend stuff, AWS, and performance tuning.<br><br>🔍 Looking for help with cloud expertise (AWS) and optimizing backend systems.<br><br>💡 Ask me about backend architecture, React + Node integration, and cloud deployments.<br><br>🏓 Fun fact: I sometimes play volleyball professionally and also run a YouTube Shorts channel on history using AI!
+👨‍💻 Software Engineer with a passion for Full-Stack Dev. Skilled in React.js, Next.js, Tailwind CSS, Redux, TypeScript, Node.js, Express, MongoDB, and PostgreSQL. 🚀
+💡 Focused on building scalable, high-performance apps that deliver seamless user experiences.
+🌐 Proficient in Agile, DevOps, and AWS, driving efficient project execution.
+🔥 Always optimizing performance to build solutions that make an impact!
 
 
 # 💻 Tech Stack:
